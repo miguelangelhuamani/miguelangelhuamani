@@ -1,4 +1,4 @@
-#### Hi there! 👋
+### **Hi there!** 👋
 
 I'm **Miguel Angel Huamani**, a Mathematical Engineering & AI student based in Madrid, Spain🇪🇸.
 
