@@ -4,7 +4,8 @@ I'm **Miguel Angel Huamani**, a Mathematical Engineering & AI student based in M
 
 I’m a hardworking and ambitious person with a strong ability to learn quickly — something I believe is essential in any tech-driven role. I’m deeply passionate about technology, especially in the field of **Artificial Intelligence**, where I’ve developed both academic and personal projects over the past years. 
 
-At the moment, I’m actively seeking an internship to gain hands-on experience in the professional field, and I’m open to joining ambitious, high-impact projects where I can contribute meaningfully, grow as an engineer, and continue developing both professionally and personally.
+At the moment, I’m actively seeking an internship to gain hands-on experience in the professional field, and I’m open to joining ambitious, high-impact projects where I can contribute meaningfully, and continue developing both professionally and personally. I’m constantly exploring new ideas and entrepreneurial concepts, and I’m excited to turn them into impactful, real-world applications in the near future.
+
 
 ---
 
