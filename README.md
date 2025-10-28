@@ -12,16 +12,16 @@ At the moment, I’m actively seeking an internship to gain hands-on experience 
 ## 💻 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,matlab,cs,r,html,css,js,bash,git,github,docker,linux,vscode,postman,latex,apple,aws,django,nextjs,react,redis,mysql,mongodb,grafana,ros,unity,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,cs,r,html,css,js,bash,git,github,docker,linux,vscode,postman,latex,apple,aws,django,nextjs,react,redis,mysql,mongodb,grafana,ros,unity,raspberrypi" />
   </a>
 </p>
 
 <p align="center">
 
-🧠 <strong>AI & Data Science:</strong> Python · PyTorch · scikit-learn · MATLAB  
-💻 <strong>Programming Languages:</strong> C# · R · HTML · CSS · JavaScript · Bash  
+🧠 <strong>AI & Data Science:</strong> Python · PyTorch · TensorFlow/Keras · scikit-learn · LangChain · LangGraph · RAG and Agentic AI
+💻 <strong>Programming Languages:</strong> C# · R · Java · HTML/CSS · JavaScript · Bash · MATLAB 
 🛠️ <strong>Tools & DevOps:</strong> Git · GitHub · Docker · Linux · VS Code · Postman · LaTeX · macOS  
-🌐 <strong>Web Frameworks & Cloud:</strong> AWS · Django · Next.js · React  
+🌐 <strong>Cloud & Web Frameworks:</strong> AWS · GCP · Django · Next.js · React  
 🗄️ <strong>Databases & Analytics:</strong> Redis · MySQL · MongoDB · Grafana  
 🤖 <strong>Robotics & Simulations:</strong> ROS · Unity · Raspberry Pi
 
