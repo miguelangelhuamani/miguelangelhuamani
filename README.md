@@ -18,7 +18,7 @@ At the moment, I’m actively seeking an internship to gain hands-on experience 
 
 <p align="center">
 
-🧠 <strong>AI & Data Science:</strong> Python · PyTorch · TensorFlow/Keras · scikit-learn · LangChain · LangGraph · RAG & Agentic AI 
+🧠 <strong>AI & Data Science:</strong> Python · PyTorch · TensorFlow/Keras · scikit-learn · LangChain · LangGraph · RAG & Agentic AI<br>
 💻 <strong>Programming Languages:</strong> C# · R · Java · HTML/CSS · JavaScript · Bash · MATLAB 
 🛠️ <strong>Tools & DevOps:</strong> Git · GitHub · Docker · Linux · VS Code · Postman · LaTeX · macOS  
 🌐 <strong>Cloud & Web Frameworks:</strong> AWS · GCP · Django · Next.js · React  
