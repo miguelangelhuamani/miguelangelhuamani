@@ -1,11 +1,14 @@
 ### **Hi there!** 👋
 
-I'm **Miguel Angel Huamani**, a Mathematical Engineering & AI student based in Madrid, Spain🇪🇸.
+I'm Miguel Ángel Huamani, Forward Deployed Engineer based in Madrid 🇪🇸, currently bouncing between Madrid and London.
 
-I’m a hardworking and ambitious person with a strong ability to learn quickly — something I believe is essential in any tech-driven role. I’m deeply passionate about technology, especially in the field of **Artificial Intelligence**, where I’ve developed both academic and personal projects over the past years. 
+Mathematical Engineering & AI Graduate with a soft spot for anything that involves numbers refusing to behave 🧮🤖. I build across Machine Learning, Agentic engineering, PyTorch-level architecture and Optimization. No vibes-only coding here, I actually enjoy knowing what Claude is doing under the hood before I trust it 😅. Along the way I was an AI Research Assistant at UIUC, one of the top universities in the US, working on diffusion language models.
 
-At the moment, I’m actively seeking an internship to gain hands-on experience in the professional field, and I’m open to joining ambitious, high-impact projects where I can contribute meaningfully, and continue developing both professionally and personally. I’m constantly exploring new ideas and entrepreneurial concepts, and I’m excited to turn them into impactful, real-world applications in the near future.
+Right now I'm at Quantrue, an AI consultancy with a broad portfolio of major clients, working embedded inside large-scale projects, bringing my tech background to the table while learning from experts along the way. My natural habitat: tight deadlines, stakeholders who want answers not equations, and me pretending I'm not stressed about it. 🙃 
 
+I keep a close eye on the latest trends and the fastest-growing startups, and I love connecting and meeting new people, so if you want to nerd out about AI, tech, or your latest side project, hit me up on LinkedIn. 🤙
+
+(send coffee, not emails)
 
 ---
 
