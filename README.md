@@ -1,12 +1,12 @@
 ### **Hi there!** 👋
 
-I'm Miguel Ángel Huamani, Forward Deployed Engineer based in Madrid 🇪🇸, currently bouncing between Madrid and London.
+I'm Miguel Ángel Huamani, Forward Deployed Engineer based in Madrid 🇪🇸, traveling abroad regularly for work.
 
-Mathematical Engineering & AI Graduate with a soft spot for anything that involves numbers refusing to behave 🧮🤖. I build across Machine Learning, Agentic engineering, PyTorch-level architecture and Optimization. No vibes-only coding here, I actually enjoy knowing what Claude is doing under the hood before I trust it 😅. Along the way I was an AI Research Assistant at UIUC, one of the top universities in the US, working on diffusion language models.
+Mathematical Engineering & AI Graduate, `git push --force` by day, PR opener by night 🧮🤖. I build across Machine Learning, Agentic engineering, PyTorch-level architecture and Optimization. No vibes-only coding here, I actually enjoy knowing what Claude is doing under the hood before I trust it 😅. Along the way I was an AI Research Assistant at the University of Illinois Urbana-Champaign, and an ML intern at a fintech startup.
 
-Right now I'm at Quantrue, an AI consultancy with a broad portfolio of major clients, working embedded inside large-scale projects, bringing my tech background to the table while learning from experts along the way. My natural habitat: tight deadlines, stakeholders who want answers not equations, and me pretending I'm not stressed about it. 🙃 
+Hardworking, curious, and always chasing the next thing worth learning. I keep a close eye on the latest tech trends and the fastest-growing startups. That said, as much as I love the grind, I also know when to disconnect, usually with good company and a cold beer 🍻.
 
-I keep a close eye on the latest trends and the fastest-growing startups, and I love connecting and meeting new people, so if you want to nerd out about AI, tech, or your latest side project, hit me up on LinkedIn. 🤙
+I enjoy networking and meeting new people in tech, always up for a good chat about projects, ideas, or life in general.
 
 (send coffee, not emails)
 
