@@ -2,7 +2,7 @@
 
 I'm Miguel Ángel Huamani, Forward Deployed Engineer based in Madrid 🇪🇸, traveling abroad regularly for work.
 
-Mathematical Engineering & AI Graduate, `git push --force` by day, PR opener by night 🧮🤖. I build across Machine Learning, Agentic engineering, PyTorch-level architecture and Optimization. No vibes-only coding here, I actually enjoy knowing what Claude is doing under the hood before I trust it 😅. Along the way I was an AI Research Assistant at the University of Illinois Urbana-Champaign, and an ML intern at a fintech startup.
+Mathematical Engineering & AI Graduate, `git push --force` by day, PR opener by night 🧮🤖. I build across Machine Learning, Agentic AI and Software Engineering. No vibes-only coding here, I actually enjoy knowing what Claude is doing under the hood before I trust it 😅. Along the way I was an AI Research Assistant at the University of Illinois Urbana-Champaign, and an ML intern at a fintech startup.
 
 Hardworking, curious, and always chasing the next thing worth learning. I keep a close eye on the latest tech trends and the fastest-growing startups. That said, as much as I love the grind, I also know when to disconnect, usually with good company and a cold beer 🍻.
 
